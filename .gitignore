@@ -1,0 +1,24 @@
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+# *.xcodeproj
+xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build results
+*.swiftmodule
+*.swiftdoc
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# EPUB test files (optional)
+*.epub
+!test_samples/*.epub

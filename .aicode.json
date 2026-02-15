@@ -1,0 +1,11 @@
+[
+  "epubedit/App/ContentView.swift",
+  "epubedit/Info.plist",
+  "epubedit/Models/EpubFile.swift",
+  "epubedit/ViewModels/EpubEditorViewModel.swift",
+  "epubedit/Views/FileDetailView.swift",
+  "epubedit/Views/FileListView.swift",
+  "epubedit/Views/ProcessingControlsView.swift",
+  "epubedit/Views/ProcessingOverlayView.swift",
+  "epubedit/epubeditApp.swift"
+]
